@@ -1,6 +1,6 @@
 # SLACK-FILES-TO-CLOUD
 script to save uploaded files from Slack channels to Cloud service using python and "rsync" program. 
-/n "sudo apt -y install rsync" for Ubuntu.
+     "sudo apt -y install rsync" for Ubuntu.
 Rsync is able to uplaod files to the next cloud services:
 
     Alibaba Cloud (Aliyun) Object Storage System (OSS)
